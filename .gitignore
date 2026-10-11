@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AWS credentials (never commit these!)
+.aws/
+
+# Downloaded S3 test images
+75ed01cb-63a3-457f-91b9-95133fe7f597.png
